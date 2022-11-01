@@ -1,0 +1,25 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+body
+{
+    background-color: rgb(139, 151, 151);
+}
+
+h1
+{
+    font-weight: 400;
+    font-family: cursive,sans-serif;
+}
+p::first-line
+{
+    color: rgba(17, 226, 226, 0.416);
+}
+p B
+{
+    line-height: 25px;
+    text-shadow: 3px 3px 3px rgb(0, 0, 0);
+    text-indent: 20px;
+}
